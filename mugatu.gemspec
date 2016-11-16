@@ -1,7 +1,7 @@
 require_relative './lib/mugatu/version'
 
 Gem::Specification.new do |s|
-  s.name = 'mugatuy'
+  s.name = 'mugatu'
   s.summary = 'Mugatu'
   s.version = Mugatu::VERSION
   s.authors = ['Steve Weiss']
